@@ -94,7 +94,7 @@ django-prometheus==1.0.15
     # via -r requirements/requirements.in
 django-storages[boto3]==1.7.1
     # via -r requirements/requirements.in
-django==2.2.19
+django==3.2.15
     # via
     #   -r requirements/requirements.in
     #   django-allauth
@@ -288,7 +288,7 @@ sphinx==1.7.9
     # via -r requirements/requirements.in
 sphinxcontrib-websupport==1.1.0
     # via sphinx
-sqlparse==0.3.1
+sqlparse==0.4.2
     # via django
 toml==0.10.0
     # via dynaconf
