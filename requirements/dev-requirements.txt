@@ -81,7 +81,7 @@ deprecated==1.2.4
     # via pygithub
 dj-database-url==0.5.0
     # via -r requirements/requirements.in
-django-allauth==0.43.0
+django-allauth==0.54.0
     # via -r requirements/requirements.in
 django-bootstrap-form==3.4
     # via -r requirements/requirements.in
