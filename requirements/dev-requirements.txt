@@ -276,7 +276,7 @@ requests-oauthlib==1.0.0
     # via
     #   -r requirements/requirements.in
     #   django-allauth
-requests==2.23.0
+requests==2.31.0
     # via
     #   -r requirements/requirements.in
     #   coreapi
