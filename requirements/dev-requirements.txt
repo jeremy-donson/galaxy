@@ -317,7 +317,7 @@ six==1.12.0
     #   sphinx
 snowballstemmer==1.2.1
     # via sphinx
-sphinx==1.7.9
+sphinx==3.3.0
     # via -r requirements/requirements.in
 sphinxcontrib-websupport==1.1.0
     # via sphinx
