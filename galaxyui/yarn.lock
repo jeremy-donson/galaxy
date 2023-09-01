@@ -468,6 +468,11 @@
     lodash "^4.17.4"
     read-pkg-up "^6.0.0"
 
+"@snyk/protect@^1.1209.0":
+  version "1.1209.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1209.0.tgz#9e938362cf684576ead289916274cf8bd5f4e0ce"
+  integrity sha512-E370Imyh7tnkgaYJdjL+Skb7thgcPcSiIISbUhA6/ZtjKGzGLveLXGAjID9nQlizoO+P+D3UfssnE16GJZjWPw==
+
 "@swimlane/ngx-datatable@^13.0.0":
   version "13.1.0"
   resolved "https://registry.yarnpkg.com/@swimlane/ngx-datatable/-/ngx-datatable-13.1.0.tgz#a79edc7eaed762a2f7868209a2ff597bbfc7137b"
