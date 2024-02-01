@@ -43,7 +43,7 @@ botocore==1.12.107
     # via
     #   boto3
     #   s3transfer
-celery==3.1.24
+celery==4.4.0rc5
     # via
     #   -r requirements/requirements.in
     #   django-celery
@@ -67,7 +67,7 @@ coreschema==0.0.4
     # via
     #   coreapi
     #   drf-yasg
-cryptography==3.4.3
+cryptography==42.0.2
     # via
     #   ansible
     #   pyjwt
