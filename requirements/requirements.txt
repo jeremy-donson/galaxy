@@ -133,7 +133,7 @@ flake8==3.7.9
     #   galaxy-importer
 galaxy-importer==0.2.15
     # via -r requirements/requirements.in
-gunicorn==19.7.1
+gunicorn==22.0.0
     # via
     #   -r requirements/requirements.in
     #   pulpcore
