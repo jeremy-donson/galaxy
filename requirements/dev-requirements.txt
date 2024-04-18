@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=requirements/dev-requirements.txt requirements/dev-requirements.in
 #
-aiohttp==3.7.4
+aiohttp==3.9.4
     # via -r requirements/requirements.in
 alabaster==0.7.12
     # via sphinx
@@ -139,7 +139,7 @@ flake8==3.7.9
     #   galaxy-importer
 galaxy-importer==0.2.15
     # via -r requirements/requirements.in
-gunicorn==19.7.1
+gunicorn==22.0.0
     # via
     #   -r requirements/requirements.in
     #   pulpcore
