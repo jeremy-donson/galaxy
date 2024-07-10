@@ -99,7 +99,7 @@ django-prometheus==1.0.15
     # via -r requirements/requirements.in
 django-storages[boto3]==1.7.1
     # via -r requirements/requirements.in
-django==2.2.19
+django==4.2.14
     # via
     #   -r requirements/requirements.in
     #   django-allauth
