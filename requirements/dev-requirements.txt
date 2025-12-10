@@ -16,7 +16,7 @@ ansible-lint==4.2.0
     # via
     #   -r requirements/requirements.in
     #   galaxy-importer
-ansible==2.9.7
+ansible==12.0.0
     # via
     #   -r requirements/requirements.in
     #   ansible-lint
@@ -321,7 +321,7 @@ sphinx==1.7.9
     # via -r requirements/requirements.in
 sphinxcontrib-websupport==1.1.0
     # via sphinx
-sqlparse==0.2.4
+sqlparse==0.5.4
     # via
     #   django
     #   django-debug-toolbar
@@ -333,7 +333,7 @@ uritemplate==3.0.0
     # via
     #   coreapi
     #   drf-yasg
-urllib3==1.24.3
+urllib3==2.6.0
     # via
     #   botocore
     #   requests
